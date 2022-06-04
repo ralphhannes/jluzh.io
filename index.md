@@ -1,37 +1,185 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<!-- saved from url=(0093)https://work.jluzh.edu.cn/default/work/jluzh/jcrdjglxt/ewm/scqrcode.html?key=m7DHnpla9wh4ZPia -->
+<html>
 
-You can use the [editor on GitHub](https://github.com/ralphhannes/jluzh.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>吉林大学珠海学院进校码</title>
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+    <style>
+        body {
+            background: #fafafa;
+            margin: 0;
+            padding: 0;
+        }
+        
+        .logo {
+            height: 40px;
+            background: url(https://work.jluzh.edu.cn/default/work/jluzh/jcrdjglxt/ewm/img/logo.png) no-repeat;
+            background-size: auto 40px;
+        }
+        
+        .info {
+            width: 90%;
+            margin-left: 5%;
+            height: 170px;
+            background: url(https://work.jluzh.edu.cn/default/work/jluzh/jcrdjglxt/ewm/img/main1.png) no-repeat;
+            background-size: 100% 100%;
+            margin-top: 20px;
+        }
+        
+        .hang {
+            font-size: 16px;
+            color: #fff;
+            height: 38px;
+            line-height: 38px;
+        }
+        
+        .item-name {
+            float: left;
+            width: 40%;
+            margin-right: 0px;
+            text-align: right;
+        }
+        
+        .txz_titie {
+            height: 36px;
+            line-height: 36px;
+            font-size: 20px;
+            margin-left: 5%;
+            margin-top: 20px;
+            padding-left: 5px;
+        }
+        
+        .txz_titie.green {
+            border-left: 5px solid #2bb782;
+        }
+        
+        .txz_titie.green span {
+            color: #2bb782;
+        }
+        
+        .txz_titie.red {
+            border-left: 5px solid #E87474;
+        }
+        
+        .txz_titie.red span {
+            color: #E87474;
+        }
+        
+        .txz {
+            width: 90%;
+            margin-left: 5%;
+            height: 385px;
+            background: #2bb782;
+            margin-top: 20px;
+            border-radius: 5px;
+        }
+        
+        .txz .green {
+            height: 80px;
+            background: url(https://work.jluzh.edu.cn/default/work/jluzh/jcrdjglxt/ewm/img/safe.jpg) no-repeat 50% 50%;
+            background-size: auto 100%;
+        }
+        
+        .txz_jinzhi {
+            width: 90%;
+            margin-left: 5%;
+            height: 370px;
+            background: #E87474;
+            margin-top: 20px;
+            border-radius: 5px;
+        }
+        
+        .txz_jinzhi .red {
+            height: 80px;
+            background: url(https://work.jluzh.edu.cn/default/work/jluzh/jcrdjglxt/ewm/img/jinzhi.png) no-repeat 50% 60%;
+            background-size: auto 50px;
+        }
+        
+        .item-value {
+            white-space: nowrap;
+            text-overflow: ellipsis;
+            overflow: hidden;
+        }
+        
+        .layui-layer-dialog:not(.layui-layer-msg) .layui-layer-content {
+            min-height: auto !important;
+        }
+        
+        .ryxx,
+        .xgh,
+        .bz {
+            display: none;
+        }
+        
+        #ewmDiv {
+            width: 230px;
+            height: 230px;
+            margin: 0 auto;
+            border-radius: 4px;
+            background-color: white;
+        }
+        
+        #ewmDiv #ewm {
+            padding: 15px;
+        }
+    </style>
+    <link rel="stylesheet" href="https://work.jluzh.edu.cn/default/base/_libs/plugins/layer/skin/layer.css" id="layui_layer_skinlayercss" style="">
+</head>
 
-### Markdown
+<body>
+    <div class="info" style="height:200px;" >
+        <div class="logo"></div>
+        <div class="hang ryxx" style="display: block;">
+            <div class="item-name">身份类型：</div>
+            <div class="item-value" name="sflb">校外人员</div>
+        </div>
+        <div class="hang ryxx" style="display: block;">
+            <div class="item-name">姓名：</div>
+            <div class="item-value" name="xm">黄茂清</div>
+        </div>
+        <div class="hang ryxx" style="display: block;">
+            <div class="item-name">备注：</div>
+            <div class="item-value">粤C2S968</div>
+        </div>
+        <div class="hang bz">
+            <div class="item-name"></div>
+            <div class="item-value" name="bz"></div>
+        </div>
+        <div class="hang ryxx" style="display: block;">
+            <div class="item-name">有效期：</div>
+            <div class="item-value" name="yxq">2022-06-04至2022-06-04</div>
+        </div>
+    </div>
+    <!--运行通行-->
+    <div class="txz_titie green" style="">
+        <span>允许通行</span> 当天剩余
+        <span style="margin-left:-4px" name="sycs">2</span>次(进出)
+    </div>
+    <div class="txz" style="">
+        <div class="green"></div>
+        <div id="ewmDiv">
+            <div id="ewm" title="KEY=m7DHnpla9wh4ZPia"><canvas width="200" height="200" style="display: none;"></canvas>
+<img src="data:image/png;base64,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" style="display: block;">
+     </div>
+    </div>
+    <!--禁止通行-->
+    <div class="txz_titie red" style="display: none;">
+        <span>禁止通行</span>
+    </div>
+    <div class="txz_jinzhi" style="display: none;">
+        <div class="red"></div>
+        <div class="hang">
+            <div style="text-align:center;" id="ts"></div>
+        </div>
+    </div>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    <script src="https://work.jluzh.edu.cn/default/base/_libs/plugins/jQuery/jQuery-2.1.4.min.js"></script>
+    <script src="https://work.jluzh.edu.cn/default/base/_libs/plugins/layer/layer.js"></script>
+    <script src="https://work.jluzh.edu.cn/default/work/jluzh/jcrdjglxt/ewm/qrcode.js"></script>
+</body>
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ralphhannes/jluzh.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</html>
